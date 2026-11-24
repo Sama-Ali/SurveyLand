@@ -1,4 +1,4 @@
-📝 SurveyLand Frontend
+📝 SurveyLand
 
 A modern and scalable frontend application for SurveyLand, a platform that enables users to create surveys, manage questions, publish survey links, collect responses, and analyze results efficiently.
 
